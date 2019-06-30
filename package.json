@@ -17,7 +17,10 @@
   },
   "homepage": "https://github.com/Luhen1/Video-Maker#readme",
   "dependencies": {
+    "algorithmia": "^0.3.10",
+    "init": "^0.1.2",
     "readline-sync": "^1.4.9",
-    "rss-parser": "^3.7.1"
+    "rss-parser": "^3.7.1",
+    "sbd": "^1.0.15"
   }
 }
